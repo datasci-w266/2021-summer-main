@@ -32,10 +32,10 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Zack Alexander**: Thursday immediately after his live session
-* **Mark Butler**: Friday immediately after his live session
+* **Mark Butler**: Monday at noon PST and Friday immediately after his live session
 * **Daniel Cer**: Friday at noon PST
 * **Peter Grabowski**: Tuesday immediately after his live sessions
-* **Joachim Rahmfeld**: Wednesday immediately after his live session
+* **Joachim Rahmfeld**: Wednesday at noon PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Drew Plant**: Monday at 6pm PST
 * **Gurdit Chahal**: Tuesday at 5pm PST
