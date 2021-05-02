@@ -142,7 +142,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides: [[available soon with @berkeley.edu address](https://drive.google.com/drive/tbd)]
+### Live Session Slides: [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1CntokG_EcidWgKMjv2Gferx-7RGx6ePE?usp=sharing)]
 
 ### Deliverables
 
