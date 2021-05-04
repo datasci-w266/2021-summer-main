@@ -32,13 +32,13 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Zack Alexander**: Thursday immediately after his live session
-* **Mark Butler**: Monday at noon PST and Friday immediately after his live session
+* **Mark Butler**: Monday at 1pm PST and Friday immediately after his live session
 * **Daniel Cer**: Friday at noon PST
-* **Peter Grabowski**: Tuesday immediately after his live sessions
+* **Peter Grabowski**: Tuesday at 1pm PST
 * **Joachim Rahmfeld**: Wednesday at noon PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after his live session
 * **Drew Plant**: Monday at 6pm PST
-* **Gurdit Chahal**: Tuesday at 5pm PST
+* **Gurdit Chahal**: Tuesday at 3pm PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -264,45 +264,9 @@ will be released around the last live session of the week and due approximately 
   <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1103.0398v1.pdf" target="_blank">Natural Language Processing (almost) from Scratch</a> (Collobert et al., 2011)
 </tr>
 
-<tr><!--- POS Tagging and Parsing -->
-  <td><strong>Week&nbsp;4</strong><br>(May&nbsp;24)</td>
-  <td><a href="https://www.youtube.com/playlist?list=PLh1VT8Lm3apRPGB1uKZsMyMt1DmUf_ItE">Part of Speech Supplementary Videos</a>
-  <br>Dependency Parsing (Parsing I)
-  <br>Constituency Parsing (Parsing II)</td>
-  <td><ul>
-  <li>Tag sets
-  <li>Most frequent tag baseline
-  <li>HMM/CRF models
-  <li>Dependency trees
-  <li>Transition-based parsing: Arc&#8209;standard, Arc&#8209;eager
-  <li>Context-free grammars (CFGs)
-  <li>CKY algorithm
-  <li>Probabilistic CFGs
-  </ul>
-  <b>Note:</b> Section 7.6 this week in the async is optional.
-  </td>
-  <td><ul>
-  <li>Read: <a href="http://www.nltk.org/book/ch05.html" target="_blank">NLTK book chapter 5: Categorizing and Tagging Words</a>
-  <li>Read: <a href="https://arxiv.org/pdf/1104.2086.pdf" target="_blank">A Universal Part-of-Speech Tagset</a>
-  <li><em>Optional:</em> <a href="http://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf" target="_blank">Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?</a>
-    <li>Read: <a href="https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html" target="_blank">SyntaxNet (Parsey McParseface)</a>
-  <li>Skim: <a href="https://web.stanford.edu/~jurafsky/slp3/14.pdf" target="_blank">Dependency Parsing (J&M Chapter 14)</a>
-    <li>Skim: <a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf" target="_blank">Constituency Parsing (J&M Chapter 13)</a>
-  <li><em>Optional:</em> <a href="https://www.aclweb.org/anthology/D14-1082.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
-    <li>Skim: <a href="http://www.nltk.org/book/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
-  <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
-  <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
-  <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
-  </ul>
-  <br>
-  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[<em>Optional:</em> Interactive HMM Demo]</a>
-  <p>
-  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[<em>Optional:</em> Interactive CKY Demo]</a>
-  </td>
-</tr>
 
 <tr><!--- Classification and Convolutional Networks-->
-  <td><strong>Week&nbsp;5</strong><br>(May&nbsp;31)</td>
+  <td><strong>Week&nbsp;4</strong><br>(May&nbsp;24)</td>
   <td>Classification and Sentiment (2.7 onwards)
   <p><p>
   <em>Note: you should review Async 5.3, 5.4, and 5.5.</em>
@@ -317,7 +281,7 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 <tr><!--- Language models and n-grams -->
-  <td><strong>Week&nbsp;6</strong><br>(June&nbsp;7)</td>
+  <td><strong>Week&nbsp;5</strong><br>(May&nbsp;31)</td>
   <td>Language Modeling I,
   <br>4.1-4.4,
   <br>5.8, 5.11</td>
@@ -368,7 +332,7 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 <tr><!--- Neural language models and RNNs -->
-  <td><strong>Week&nbsp;7</strong><br>(June&nbsp;14)</td>
+  <td><strong>Week&nbsp;6</strong><br>(June&nbsp;7)</td>
   <td>Language Modeling II</td>
   <td><ul>
   <li>Recurrent Neural Nets
@@ -385,8 +349,8 @@ will be released around the last live session of the week and due approximately 
   </td>
 </tr>
 
-<tr><!--- Week 8  -->
-  <td><strong>Week&nbsp;8</strong><br>(June&nbsp;21)</td>
+<tr><!--- Week 7  -->
+  <td><strong>Week&nbsp;7</strong><br>(June&nbsp;14)</td>
   <td>Machine Translation I
   <br>Machine Translation II</td>
   <td><ul>
@@ -403,8 +367,8 @@ will be released around the last live session of the week and due approximately 
   </ul></td>
   </tr>
   
-  <tr><!--- Transformers  week 9  -->
-  <td><strong>Week&nbsp;9</strong><br>(June&nbsp;28)</td>
+  <tr><!--- Transformers  week 8  -->
+  <td><strong>Week&nbsp;8</strong><br>(June&nbsp;21)</td>
   <td>No Async</td>
   <td><ul>
   <li>Self-Attention
@@ -420,8 +384,8 @@ will be released around the last live session of the week and due approximately 
   </td>
 </tr>
 
-<tr><!--- Week 10 Entities -->
-  <td><strong>Week&nbsp;10</strong><br>(July&nbsp;5)</td>
+<tr><!--- Week 09 Entities -->
+  <td><strong>Week&nbsp;9</strong><br>(June&nbsp;28)</td>
   <td>Entities</td>
   <td><ul>
   <li>From syntax to semantics
@@ -441,8 +405,8 @@ will be released around the last live session of the week and due approximately 
 </tr>
 
 
-<tr><!--- Week 11 Summarization-->
-  <td><strong>Week&nbsp;11</strong><br>(July&nbsp;12)</td>
+<tr><!--- Week 10 Summarization-->
+  <td><strong>Week&nbsp;10</strong><br>(July&nbsp;5)</td>
   <td>Summarization</td>
   <td><ul>
   <li>Single- vs. multi-document summarization
@@ -468,8 +432,8 @@ will be released around the last live session of the week and due approximately 
   <td>No Readings</td>
 </tr> -->
 
- <tr><!--- Practical Machine Learning  week 10 -->
-  <td><strong>Week&nbsp;12</strong><br>(July&nbsp;19)</td>
+ <tr><!--- Practical Machine Learning  week 11 -->
+  <td><strong>Week&nbsp;11</strong><br>(July&nbsp;12)</td>
   <td>No Async</td>
   <td><ul>
   <li>Document Representation
@@ -485,6 +449,44 @@ will be released around the last live session of the week and due approximately 
   <p>
   </td>
 </tr>
+
+<tr><!--- POS Tagging and Parsing -->
+  <td><strong>Week&nbsp;12</strong><br>(July&nbsp;19)</td>
+  <td><a href="https://www.youtube.com/playlist?list=PLh1VT8Lm3apRPGB1uKZsMyMt1DmUf_ItE">Part of Speech Supplementary Videos</a>
+  <br>Dependency Parsing (Parsing I)
+  <br>Constituency Parsing (Parsing II)</td>
+  <td><ul>
+  <li>Tag sets
+  <li>Most frequent tag baseline
+  <li>HMM/CRF models
+  <li>Dependency trees
+  <li>Transition-based parsing: Arc&#8209;standard, Arc&#8209;eager
+  <li>Context-free grammars (CFGs)
+  <li>CKY algorithm
+  <li>Probabilistic CFGs
+  </ul>
+  <b>Note:</b> Section 7.6 this week in the async is optional.
+  </td>
+  <td><ul>
+  <li>Read: <a href="http://www.nltk.org/book/ch05.html" target="_blank">NLTK book chapter 5: Categorizing and Tagging Words</a>
+  <li>Read: <a href="https://arxiv.org/pdf/1104.2086.pdf" target="_blank">A Universal Part-of-Speech Tagset</a>
+  <li><em>Optional:</em> <a href="http://nlp.stanford.edu/pubs/CICLing2011-manning-tagging.pdf" target="_blank">Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?</a>
+    <li>Read: <a href="https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html" target="_blank">SyntaxNet (Parsey McParseface)</a>
+  <li>Skim: <a href="https://web.stanford.edu/~jurafsky/slp3/14.pdf" target="_blank">Dependency Parsing (J&M Chapter 14)</a>
+    <li>Skim: <a href="https://web.stanford.edu/~jurafsky/slp3/13.pdf" target="_blank">Constituency Parsing (J&M Chapter 13)</a>
+  <li><em>Optional:</em> <a href="https://www.aclweb.org/anthology/D14-1082.pdf" target="_blank">A Fast and Accurate Dependency Parser using Neural Networks</a> (Chen & Manning 2014)
+    <li>Skim: <a href="http://www.nltk.org/book/ch08.html" target="_blank">NLTK book chapter 8 (analyzing sentence structure)</a>
+  <li>Skim: <a href="http://ilpubs.stanford.edu:8091/~klein/unlexicalized-parsing.pdf" target="_blank">Accurate Unlexicalized Parsing</a> (Klein & Manning 2003)
+  <li>Play: <a href="http://nlp.stanford.edu:8080/parser/" target="_blank">Stanford parser</a> (online demo)
+  <li><em>Optional / reference:</em> <a href="http://www.surdeanu.info/mihai/teaching/ista555-fall13/readings/PennTreebankConstituents.html" target="_blank">Penn Treebank Constituent Tags</a>
+  </ul>
+  <br>
+  <a href="https://hmm-dot-nlp-visualizations.appspot.com/hmm?sentence=James+ate+the+food&vizMode=viterbi&numFormat=log" target="_blank">[<em>Optional:</em> Interactive HMM Demo]</a>
+  <p>
+  <a href="https://cky-dot-nlp-visualizations.appspot.com/cky?sentence=James+ate+the+food" target="_blank">[<em>Optional:</em> Interactive CKY Demo]</a>
+  </td>
+</tr>
+
 
 <tr><!--- Week 13 Information Retrieval -->
   <td><strong>Week&nbsp;13</strong><br>(July&nbsp;26)</td>
