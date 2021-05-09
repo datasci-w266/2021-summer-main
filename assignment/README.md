@@ -42,4 +42,4 @@ update the master repo and you can patch your client with `git pull`.  Be sure
 to use the assignment submit script (see Assignment 0 for instructions) to submit.
 **Do not** make pull requests on the course repo!
 
-Be sure to **`git commit`** often to save your work!
+Be sure to **`submit.sh`** often to save your work!
