@@ -35,13 +35,11 @@ main_components:
 project_components:
   - Proposal
   - Presentation
-  - Office hour proposal discussions
-  - Milestone
   - Final report
 
 # 3. How many late days can you use over the semester?
 # (Replace the 0 with the right answer.)
-late_days: 0
+late_days: 5
 
 # 4. How many late days can you use on a single assignment?
 # (Replace the 0 with the right answer.)
