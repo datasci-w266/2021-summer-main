@@ -164,9 +164,29 @@ will be released around the last live session of the week and due approximately 
     <li>Google Cloud
   </ul></td>
   <td></td>
-  <td>TDB</td>
+  <td>May&nbsp;16</td>
 </tr>
 
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment 1</strong>
+  <ul>
+    <li>Information Theory
+	<li>Probability
+  </ul></td>
+  <td></td>
+  <td>May&nbsp;23</td>
+</tr>
+
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Neural Networks
+  </ul></td>
+  <td></td>
+  <td>May&nbsp;30</td>
+</tr>
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
@@ -177,6 +197,37 @@ will be released around the last live session of the week and due approximately 
   <td>Jun&nbsp;5</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Embeddings
+    <li>ML Fairness
+  </ul></td>
+  <td></td>
+  <td>Jun&nbsp;6</td>
+</tr>
+
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Classification
+    <li>Convolutional Neural Nets
+  </ul></td>
+  <td></td>
+  <td>Jun&nbsp;13</td>
+</tr>
+
+<tr> <!-- a5 -->
+  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
+  <td><strong>Assignment 5</strong>
+  <ul>
+    <li>Language Models
+  </ul></td>
+  <td></td>
+  <td>Jun&nbsp;20</td>
+</tr>
 
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
