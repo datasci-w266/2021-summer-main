@@ -8,13 +8,13 @@
 #      course policy, while still being confident everyone has read the syllabus.
 
 # Replace the next two lines with your name.
-last_name: Plant
-first_name: Drew
+last_name: Lastname
+first_name: FirstName
 
 # Replace the next line with your Berkeley email address.
 # We use it to give you access to the grading sheet.  It *must* be @berkeley.edu.
 # See the assignment instructions on how to get one if you don't have one already!
-email: drewplant@berkeley.edu
+email: placeholder@berkeley.edu
 
 ## Read the following thoroughly:
 #  - syllabus/README.md
@@ -26,8 +26,10 @@ email: drewplant@berkeley.edu
 
 main_components:
   - Term project
+  - Midterm examination
   - Assignments
   - Participation
+  - Final examination
 
 # 2.  What are the three graded components of the project?
 # (Delete the incorrect answers.)
@@ -35,11 +37,13 @@ main_components:
 project_components:
   - Proposal
   - Presentation
+  - Office hour proposal discussions
+  - Milestone
   - Final report
 
 # 3. How many late days can you use over the semester?
 # (Replace the 0 with the right answer.)
-late_days: 5
+late_days: 0
 
 # 4. How many late days can you use on a single assignment?
 # (Replace the 0 with the right answer.)
