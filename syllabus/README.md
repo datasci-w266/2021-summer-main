@@ -490,7 +490,7 @@ will be released around the last live session of the week and due approximately 
   <td><ul>
   <li>Skim: <a href="https://www.cs.cmu.edu/~afm/Home_files/Das_Martins_survey_summarization.pdf" target="_blank">A Survey on Automatic Text Summarization</a> (Das and Martins, 2007)
   <li>Read: <a href="https://arxiv.org/pdf/1509.00685v2.pdf" target="_blank">A Neural Attention Model for Abstractive Sentence Summarization</a> (Rush et al. 2015)
-  <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1704.04368.pdf" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a> (See et al. 2017)
+  <li><em>Skim:</em> <a href="https://arxiv.org/pdf/1704.04368.pdf" target="_blank">Get To The Point: Summarization with Pointer-Generator Networks</a> (See et al. 2017)
   </ul>
   <p>
   </td>
@@ -517,6 +517,7 @@ will be released around the last live session of the week and due approximately 
   <td><ul>
     <li><em>Read (skim):</em> <a href="https://arxiv.org/pdf/1904.08398.pdf" target="_blank">DocBERT: BERT for Document Classification</a> (Adhikari et. al., 2019)
     <li><em>Read:</em> <a href="https://www.aclweb.org/anthology/N16-1174.pdf" target="_blank">Hierarchical Attention Networks for Document Classification</a> (Yang et. al., 2019)
+    <li><em>Read (skim):</em> <a href="https://aclanthology.org/D19-1599.pdf" target="_blank">Multi-passage BERT: A globally normalized BERT model for open-domain question answering</a> (Wang et. al., 2019)
   </ul>
   <p>
   </td>
